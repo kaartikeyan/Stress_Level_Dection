@@ -34,11 +34,14 @@ Data prediction
 ![image](https://github.com/kaartikeyan/Stress_Level_Dection/assets/110711516/fcc9edec-9382-4738-8f43-57d775db37a0)
 
 [0]
+
 Stress Level: LOW
 
 [1]
+
 Stress Level: LOW
 
 [2]
+
 Stress Level: HIGH
 
