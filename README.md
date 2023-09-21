@@ -10,15 +10,23 @@ It's not just the stress itself that's the problem. It's how you respond to it.F
 # TECHNOLOGIES USED
 
 INTEL Devcloud OneAPI Toolkit
+
+
 Intelbase toolkit
+
+
 IntelAI Toolkit
 
 # METHODOLOGY
 
 Data collection
+
 Data Preprocessing
+
 Data modelling
+
 Data deployment
+
 Data prediction
 
 # RESULT
@@ -27,8 +35,10 @@ Data prediction
 
 [0]
 Stress Level: LOW
+
 [1]
 Stress Level: LOW
+
 [2]
 Stress Level: HIGH
 
